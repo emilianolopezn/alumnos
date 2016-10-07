@@ -6,6 +6,8 @@
 //  Copyright © 2016 Maestro. All rights reserved.
 //
 
+// Modificado por Beatriz
+
 import Foundation
 import UIKit
 
