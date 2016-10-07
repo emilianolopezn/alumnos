@@ -18,4 +18,6 @@ class CeldaAlumnoController : UITableViewCell{
     @IBOutlet weak var lblCarrera: UILabel!
     
     @IBOutlet weak var imgFoto: UIImageView!
+    
+    //Modificado por Gaby
 }
