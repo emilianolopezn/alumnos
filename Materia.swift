@@ -32,5 +32,7 @@ class Materia {
         self.nombre = nombre
         self.descripcion = descripcion
     }
+    
+    // Modificado por Neto
 }
 
